@@ -6,7 +6,7 @@ Talk performed by myself and [Francesco Gualazzi](https://github.com/inge4pres) 
 
 *Video*: 
 
-*Slides*: 
+*Slides*: [Slideshare](https://www.slideshare.net/CarloCorti5/exponential-growth-with-iac-superpowers)
 
 *Demo*: Code available in this repository
 
