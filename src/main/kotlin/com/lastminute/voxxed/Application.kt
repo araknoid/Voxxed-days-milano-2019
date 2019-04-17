@@ -11,9 +11,9 @@ import java.nio.file.Paths
 
 fun main() {
 
-    val datasetName = "a dataset name"
-    val tableName = "a table name"
-    val location = "location of the project"
+    val datasetName = "auditing"
+    val tableName = "APPLICATION_LOGS"
+    val location = "EU"
     val projectId = "project identifier"
 
     val credentials = "read write key file".asCredentials()
