@@ -2,15 +2,15 @@
 
 Talk performed by myself and [Francesco Gualazzi](https://github.com/inge4pres) at Voxxed Days Milano 2019
 
-Talk: https://vxdmilan2019.confinabox.com/talk/EOQ-0099  
+*Talk details*: [Exponential growth with IaC superpowers](https://vxdmilan2019.confinabox.com/talk/EOQ-0099  )
 
-Video: 
+*Video*: 
 
-Slides: 
+*Slides*: 
 
-Demo: Code available in this repository
+*Demo*: Code available in this repository
 
-Terraform script:
+*Terraform script*:
 ```terraform
 resource "google_bigquery_dataset" "auditing-dataset" {
   dataset_id = "auditing"
