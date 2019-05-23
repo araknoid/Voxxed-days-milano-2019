@@ -4,7 +4,7 @@ Talk performed by myself and [Francesco Gualazzi](https://github.com/inge4pres) 
 
 *Talk details*: [Exponential growth with IaC superpowers](https://vxdmilan2019.confinabox.com/talk/EOQ-0099  )
 
-*Video*: 
+*Video*: [[VDM19] Crescita esponenziale dell'organizzazione con “Infrastructure as code” by Gualazzi & Corti](https://youtu.be/M9l4zclrhRI)
 
 *Slides*: [Slideshare](https://www.slideshare.net/CarloCorti5/exponential-growth-with-iac-superpowers)
 
