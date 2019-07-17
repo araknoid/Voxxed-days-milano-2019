@@ -6,7 +6,7 @@ Talk performed by myself and [Francesco Gualazzi](https://github.com/inge4pres) 
 
 *Video*: [[VDM19] Crescita esponenziale dell'organizzazione con “Infrastructure as code” by Gualazzi & Corti](https://youtu.be/M9l4zclrhRI)
 
-*Slides*: [Slideshare](https://www.slideshare.net/CarloCorti5/exponential-growth-with-iac-superpowers)
+*Slides*: [SpeakerDeck](https://speakerdeck.com/araknoid/exponential-growth-with-iac-superpowers)
 
 *Demo*: Code available in this repository
 
